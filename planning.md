@@ -108,4 +108,4 @@ Future improvement targets (not required for this submission): per-class F1 abov
 - [ ] Inter-annotator reliability
 - [ ] Confidence calibration
 - [ ] Error pattern analysis
-- [ ] Deployed interface
+- [x] Deployed interface
